@@ -3,6 +3,12 @@ name = "xpa"
 version = "0.1.0"
 description = "X-ray diffraction lib for analysis"
 authors = ["Andre da Silva <andrezio@live.com>"]
+# New attributes
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/abndre/xpa-xpa_pypi.git"
+repository = "https://github.com/abndre/xpa-xpa_pypi.git"
+keywords = ["x-ray", "powder", "diffraction"]
 
 [tool.poetry.dependencies]
 python = ">=3.6.1,<4.0"
